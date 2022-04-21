@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(to bottom right, #07a3b2, #d9ecc7);
+  background-size: 100%;
+}
+
+p {
+  text-align: center;
+  text-shadow: to bottom green 30px;
+  size: 90px;
+  font-family: Algerian;
+}
